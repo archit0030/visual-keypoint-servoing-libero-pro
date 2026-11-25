@@ -10,6 +10,28 @@ The policy sees only the two camera images (agentview and wrist, 128×128) and
 proprioception (end-effector pose, gripper fingers). Object poses from the
 simulator are never used.
 
+## Rollouts
+
+Left half of each clip: agentview camera. Right half: wrist camera. These are
+exactly the images the policy receives.
+
+<table>
+<tr>
+<td align="center"><img src="results/gifs/success_standard.gif" width="400"><br><sub>Standard layout</sub></td>
+<td align="center"><img src="results/gifs/success_p2_swap.gif" width="400"><br><sub>P2: plate and cookie box swapped</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="results/gifs/success_bowl_moved.gif" width="400"><br><sub>Bowl moved 8.4 cm</sub></td>
+<td align="center"><img src="results/gifs/success_plate_moved.gif" width="400"><br><sub>Plate moved 17.7 cm</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="results/gifs/success_both_moved.gif" width="400"><br><sub>Bowl and plate both moved</sub></td>
+<td align="center"><img src="results/gifs/failure_plate_moved.gif" width="400"><br><sub>Failure: plate moved 13 cm, bowl released off-centre</sub></td>
+</tr>
+</table>
+
+The full-resolution mp4 files are in [`results/videos/`](results/videos).
+
 ## Results
 
 Success within 220 steps, one episode per test layout (95% Wilson intervals).
@@ -32,17 +54,6 @@ Detector accuracy on renders of the 5 held-out demonstrations, after fusing
 both cameras: bowl median 0.40 mm (p95 6.8 mm), plate median 0.60 mm
 (p95 3.6 mm). One policy step (both detectors, perception and controller)
 takes about 4 ms on an RTX 4060 Ti.
-
-Videos (left: agentview, right: wrist camera; these are the policy's inputs):
-
-| Setting | Video |
-|---|---|
-| Standard layout | [success_standard.mp4](results/videos/success_standard.mp4) |
-| P2 position swap | [success_p2_swap.mp4](results/videos/success_p2_swap.mp4) |
-| Bowl moved | [success_bowl_moved.mp4](results/videos/success_bowl_moved.mp4) |
-| Plate moved 17.7 cm | [success_plate_moved.mp4](results/videos/success_plate_moved.mp4) |
-| Bowl and plate moved | [success_both_moved.mp4](results/videos/success_both_moved.mp4) |
-| Failure: plate moved 13 cm, bowl released off-centre | [failure_plate_moved.mp4](results/videos/failure_plate_moved.mp4) |
 
 ## Method
 
@@ -113,7 +124,7 @@ vks_method/
 ├── checkpoints/         trained K-Net weights (agentview: epoch 14, wrist: epoch 30)
 ├── data/                214 test layouts (metadata + MuJoCo states)
 ├── assets/              BDDL task files for the standard scene and the P2 scene
-├── results/             summary.csv, per-episode results, videos
+├── results/             summary.csv, per-episode results, videos (mp4) and GIFs
 └── tests/               unit tests (detector, geometry, perception, controller, policy)
 ```
 
