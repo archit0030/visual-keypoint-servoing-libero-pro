@@ -1,0 +1,6 @@
+family,episodes,successes,success_rate_pct,ci95_low_pct,ci95_high_pct
+Standard,30,30,100.0,88.6,100.0
+P2,30,30,100.0,88.6,100.0
+F-obj,53,53,100.0,93.2,100.0
+F-dest,69,54,78.3,67.2,86.4
+F-both,32,29,90.6,75.8,96.8

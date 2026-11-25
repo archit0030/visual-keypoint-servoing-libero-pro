@@ -1,0 +1,3153 @@
+{
+ "description": "VKS test layouts (LIBERO-Spatial table-center task): Standard, LIBERO-PRO P2 and shifted bowl/plate layouts",
+ "layouts": [
+  {
+   "id": "standard_i00",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 0,
+   "moved": {}
+  },
+  {
+   "id": "standard_i01",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 1,
+   "moved": {}
+  },
+  {
+   "id": "standard_i02",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 2,
+   "moved": {}
+  },
+  {
+   "id": "standard_i03",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 3,
+   "moved": {}
+  },
+  {
+   "id": "standard_i04",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 4,
+   "moved": {}
+  },
+  {
+   "id": "standard_i05",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 5,
+   "moved": {}
+  },
+  {
+   "id": "standard_i06",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 6,
+   "moved": {}
+  },
+  {
+   "id": "standard_i07",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 7,
+   "moved": {}
+  },
+  {
+   "id": "standard_i08",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 8,
+   "moved": {}
+  },
+  {
+   "id": "standard_i09",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 9,
+   "moved": {}
+  },
+  {
+   "id": "standard_i10",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 10,
+   "moved": {}
+  },
+  {
+   "id": "standard_i11",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 11,
+   "moved": {}
+  },
+  {
+   "id": "standard_i12",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 12,
+   "moved": {}
+  },
+  {
+   "id": "standard_i13",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 13,
+   "moved": {}
+  },
+  {
+   "id": "standard_i14",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 14,
+   "moved": {}
+  },
+  {
+   "id": "standard_i15",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 15,
+   "moved": {}
+  },
+  {
+   "id": "standard_i16",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 16,
+   "moved": {}
+  },
+  {
+   "id": "standard_i17",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 17,
+   "moved": {}
+  },
+  {
+   "id": "standard_i18",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 18,
+   "moved": {}
+  },
+  {
+   "id": "standard_i19",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 19,
+   "moved": {}
+  },
+  {
+   "id": "standard_i20",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 20,
+   "moved": {}
+  },
+  {
+   "id": "standard_i21",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 21,
+   "moved": {}
+  },
+  {
+   "id": "standard_i22",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 22,
+   "moved": {}
+  },
+  {
+   "id": "standard_i23",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 23,
+   "moved": {}
+  },
+  {
+   "id": "standard_i24",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 24,
+   "moved": {}
+  },
+  {
+   "id": "standard_i25",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 25,
+   "moved": {}
+  },
+  {
+   "id": "standard_i26",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 26,
+   "moved": {}
+  },
+  {
+   "id": "standard_i27",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 27,
+   "moved": {}
+  },
+  {
+   "id": "standard_i28",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 28,
+   "moved": {}
+  },
+  {
+   "id": "standard_i29",
+   "family": "Standard",
+   "scene": "standard",
+   "init_index": 29,
+   "moved": {}
+  },
+  {
+   "id": "fdest_j000_c00_r079_a357",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 0,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.07901025712948548,
+      -0.004409931239634866
+     ],
+     "r_m": 0.0791332308528201,
+     "direction_deg": -3.19463025432243
+    }
+   }
+  },
+  {
+   "id": "fdest_j001_c00_r076_a011",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 1,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.07462768636093199,
+      0.01443556394345951
+     ],
+     "r_m": 0.07601103260679559,
+     "direction_deg": 10.947768987406729
+    }
+   }
+  },
+  {
+   "id": "fdest_j002_c00_r065_a349",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 2,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.06365607179062593,
+      -0.012634858969995551
+     ],
+     "r_m": 0.0648978823768927,
+     "direction_deg": -11.226516044773069
+    }
+   }
+  },
+  {
+   "id": "fdest_j003_c01_r077_a017",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 3,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.07356753871412554,
+      0.022807499470639585
+     ],
+     "r_m": 0.07702184615131985,
+     "direction_deg": 17.22454637548287
+    }
+   }
+  },
+  {
+   "id": "fdest_j004_c01_r074_a021",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 4,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.06952400449189343,
+      0.026704454068733355
+     ],
+     "r_m": 0.07447627184343955,
+     "direction_deg": 21.01198646860989
+    }
+   }
+  },
+  {
+   "id": "fdest_j005_c01_r069_a018",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 5,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.0653632338481718,
+      0.021263352596599304
+     ],
+     "r_m": 0.06873487108257423,
+     "direction_deg": 18.020255893982693
+    }
+   }
+  },
+  {
+   "id": "fdest_j008_c02_r085_a036",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 8,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.06867582815241409,
+      0.050289139706277415
+     ],
+     "r_m": 0.08511972124494652,
+     "direction_deg": 36.21413992023105
+    }
+   }
+  },
+  {
+   "id": "fdest_j025_c08_r084_a181",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 25,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.08440277827571946,
+      -0.0016930822658568776
+     ],
+     "r_m": 0.08441975780715803,
+     "direction_deg": 181.1491737829312
+    }
+   }
+  },
+  {
+   "id": "fdest_j026_c08_r062_a191",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 26,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.06114752985850945,
+      -0.011830652951972087
+     ],
+     "r_m": 0.06228149610492117,
+     "direction_deg": 190.95013122625502
+    }
+   }
+  },
+  {
+   "id": "fdest_j027_c09_r073_a206",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 27,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.06551481537543286,
+      -0.031275232119569625
+     ],
+     "r_m": 0.07259704661906029,
+     "direction_deg": 205.51871205677256
+    }
+   }
+  },
+  {
+   "id": "fdest_j028_c09_r079_a202",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 28,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.07346231130356481,
+      -0.029370912369671813
+     ],
+     "r_m": 0.07911612778371302,
+     "direction_deg": 201.7919876957325
+    }
+   }
+  },
+  {
+   "id": "fdest_j029_c09_r075_a213",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 29,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.06344795740687298,
+      -0.04088767065321897
+     ],
+     "r_m": 0.07548142096271421,
+     "direction_deg": 212.79888491885174
+    }
+   }
+  },
+  {
+   "id": "fdest_j031_c10_r082_a222",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 1,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.060914636596821184,
+      -0.05456323965789482
+     ],
+     "r_m": 0.081778604009164,
+     "direction_deg": 221.85184763469388
+    }
+   }
+  },
+  {
+   "id": "fdest_j032_c10_r072_a229",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 2,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.046851434167701204,
+      -0.05480207751047497
+     ],
+     "r_m": 0.07209940764690474,
+     "direction_deg": 229.47218012293365
+    }
+   }
+  },
+  {
+   "id": "fdest_j034_c11_r088_a252",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 4,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.02718505364288297,
+      -0.08336248484066103
+     ],
+     "r_m": 0.08768312848191415,
+     "direction_deg": 251.93851252940584
+    }
+   }
+  },
+  {
+   "id": "fdest_j039_c13_r088_a297",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 9,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.04019089550208959,
+      -0.0787353467820387
+     ],
+     "r_m": 0.08840001648273475,
+     "direction_deg": 297.04229171710665
+    }
+   }
+  },
+  {
+   "id": "fdest_j042_c14_r062_a304",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 12,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.034711190889273116,
+      -0.05102714406499136
+     ],
+     "r_m": 0.06171414914248547,
+     "direction_deg": 304.2254774974575
+    }
+   }
+  },
+  {
+   "id": "fdest_j043_c14_r080_a306",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 13,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.04695723052161854,
+      -0.06496399533742948
+     ],
+     "r_m": 0.08015798268707855,
+     "direction_deg": 305.8601299607816
+    }
+   }
+  },
+  {
+   "id": "fdest_j045_c15_r072_a334",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 15,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.06466298148231317,
+      -0.03138309170369314
+     ],
+     "r_m": 0.07187627994731216,
+     "direction_deg": 334.1111613642813
+    }
+   }
+  },
+  {
+   "id": "fdest_j046_c15_r071_a346",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 16,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.06840622249101269,
+      -0.01705944523306656
+     ],
+     "r_m": 0.07050131876177869,
+     "direction_deg": 345.996957458859
+    }
+   }
+  },
+  {
+   "id": "fdest_j047_c15_r060_a335",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 17,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.05465929570561948,
+      -0.025798485445408376
+     ],
+     "r_m": 0.06044171124572252,
+     "direction_deg": 334.7332914034529
+    }
+   }
+  },
+  {
+   "id": "fdest_j048_c16_r116_a356",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 18,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.11541804665208065,
+      -0.00857534348989754
+     ],
+     "r_m": 0.1157361741589534,
+     "direction_deg": -4.249161230131831
+    }
+   }
+  },
+  {
+   "id": "fdest_j049_c16_r101_a349",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 19,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.09943695136503224,
+      -0.019329097192271837
+     ],
+     "r_m": 0.10129818011711798,
+     "direction_deg": -11.000284188873202
+    }
+   }
+  },
+  {
+   "id": "fdest_j050_c16_r117_a006",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 20,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.1161178976622731,
+      0.011985511469169074
+     ],
+     "r_m": 0.11673482189425617,
+     "direction_deg": 5.8931131854308525
+    }
+   }
+  },
+  {
+   "id": "fdest_j051_c17_r109_a013",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 21,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.10616852609145844,
+      0.023968847563469727
+     ],
+     "r_m": 0.10884053282648674,
+     "direction_deg": 12.721947110816785
+    }
+   }
+  },
+  {
+   "id": "fdest_j053_c17_r119_a019",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 23,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.11201202486168713,
+      0.03917631526650095
+     ],
+     "r_m": 0.1186654009872949,
+     "direction_deg": 19.277334410412728
+    }
+   }
+  },
+  {
+   "id": "fdest_j054_c18_r097_a054",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 24,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.0565482410484315,
+      0.07869107688397345
+     ],
+     "r_m": 0.09690195636224758,
+     "direction_deg": 54.29857579264875
+    }
+   }
+  },
+  {
+   "id": "fdest_j055_c18_r111_a048",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 25,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.07468705748940879,
+      0.08243321028603098
+     ],
+     "r_m": 0.11123574387078669,
+     "direction_deg": 47.822441768940664
+    }
+   }
+  },
+  {
+   "id": "fdest_j056_c18_r103_a035",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 26,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.08432973254802763,
+      0.05836408331431241
+     ],
+     "r_m": 0.10255666732466431,
+     "direction_deg": 34.68686743807236
+    }
+   }
+  },
+  {
+   "id": "fdest_j058_c19_r118_a057",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 28,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.06352576950517541,
+      0.09898187812092851
+     ],
+     "r_m": 0.11761350087286333,
+     "direction_deg": 57.30798034090125
+    }
+   }
+  },
+  {
+   "id": "fdest_j059_c19_r104_a062",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 29,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.04888140061626647,
+      0.09189237820341115
+     ],
+     "r_m": 0.10408458338335552,
+     "direction_deg": 61.989619942400545
+    }
+   }
+  },
+  {
+   "id": "fdest_j072_c24_r100_a176",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 12,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.10012678928121019,
+      0.006410347782657358
+     ],
+     "r_m": 0.10033178205563024,
+     "direction_deg": 176.33679169102768
+    }
+   }
+  },
+  {
+   "id": "fdest_j073_c24_r113_a180",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 13,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.11283215180799928,
+      0.0008650186197492012
+     ],
+     "r_m": 0.11283546755712899,
+     "direction_deg": 179.56075511839398
+    }
+   }
+  },
+  {
+   "id": "fdest_j074_c24_r095_a182",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 14,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.0947920190190627,
+      -0.0032149579109947944
+     ],
+     "r_m": 0.09484652246698248,
+     "direction_deg": 181.9424941162618
+    }
+   }
+  },
+  {
+   "id": "fdest_j075_c25_r102_a194",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 15,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.09840155093775858,
+      -0.025160630457537067
+     ],
+     "r_m": 0.10156733014103028,
+     "direction_deg": 194.34285072053316
+    }
+   }
+  },
+  {
+   "id": "fdest_j076_c25_r112_a210",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 16,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.09673660532177544,
+      -0.0555710186906041
+     ],
+     "r_m": 0.11156213034669256,
+     "direction_deg": 209.8755145328476
+    }
+   }
+  },
+  {
+   "id": "fdest_j077_c25_r092_a213",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 17,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.07757304904941034,
+      -0.04969619903852799
+     ],
+     "r_m": 0.0921264898804856,
+     "direction_deg": 212.64514522075268
+    }
+   }
+  },
+  {
+   "id": "fdest_j078_c26_r100_a217",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 18,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.07972142342341774,
+      -0.05986900341728171
+     ],
+     "r_m": 0.09969856028466183,
+     "direction_deg": 216.9057288196539
+    }
+   }
+  },
+  {
+   "id": "fdest_j079_c26_r093_a227",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 19,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.06342167971700549,
+      -0.0685046631377691
+     ],
+     "r_m": 0.09335522657969207,
+     "direction_deg": 227.20645482297223
+    }
+   }
+  },
+  {
+   "id": "fdest_j080_c26_r093_a215",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 20,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.07666940445088041,
+      -0.052938888318047536
+     ],
+     "r_m": 0.09317040020952679,
+     "direction_deg": 214.62440304595032
+    }
+   }
+  },
+  {
+   "id": "fdest_j090_c30_r116_a325",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 0,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.09491319965730248,
+      -0.06659730338276411
+     ],
+     "r_m": 0.11594704087230034,
+     "direction_deg": 324.9439913131153
+    }
+   }
+  },
+  {
+   "id": "fdest_j093_c31_r119_a333",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 3,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.10624954845004872,
+      -0.0543339532186866
+     ],
+     "r_m": 0.11933626866217024,
+     "direction_deg": 332.9156806428072
+    }
+   }
+  },
+  {
+   "id": "fdest_j094_c31_r119_a344",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 4,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.11428189294693963,
+      -0.03245887977938519
+     ],
+     "r_m": 0.11880206198575996,
+     "direction_deg": 344.14414426509234
+    }
+   }
+  },
+  {
+   "id": "fdest_j095_c31_r108_a332",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 5,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.09583299948060221,
+      -0.05072601416172535
+     ],
+     "r_m": 0.10843012635879691,
+     "direction_deg": 332.1069802059541
+    }
+   }
+  },
+  {
+   "id": "fdest_j096_c32_r126_a004",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 6,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.125561751591736,
+      0.008864626803953474
+     ],
+     "r_m": 0.12587428280295457,
+     "direction_deg": 4.038366426945803
+    }
+   }
+  },
+  {
+   "id": "fdest_j097_c32_r124_a004",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 7,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.1238101085297807,
+      0.008649244049957441
+     ],
+     "r_m": 0.12411185437657354,
+     "direction_deg": 3.9961306381676085
+    }
+   }
+  },
+  {
+   "id": "fdest_j098_c32_r134_a353",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 8,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.1324659316320705,
+      -0.016988841900058786
+     ],
+     "r_m": 0.13355090337492131,
+     "direction_deg": -7.30832557642994
+    }
+   }
+  },
+  {
+   "id": "fdest_j100_c33_r130_a013",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 10,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.1273158658473626,
+      0.02859498047623725
+     ],
+     "r_m": 0.13048755727999517,
+     "direction_deg": 12.65849781591444
+    }
+   }
+  },
+  {
+   "id": "fdest_j101_c33_r126_a032",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 11,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.10738917147811558,
+      0.06586320726773995
+     ],
+     "r_m": 0.125977760824478,
+     "direction_deg": 31.521343219764674
+    }
+   }
+  },
+  {
+   "id": "fdest_j102_c34_r137_a046",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 12,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.09458985275560916,
+      0.09942697272372045
+     ],
+     "r_m": 0.13723324360129097,
+     "direction_deg": 46.42817076432118
+    }
+   }
+  },
+  {
+   "id": "fdest_j107_c35_r125_a058",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 17,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.06550472078520615,
+      0.10664305184494438
+     ],
+     "r_m": 0.12515434052381608,
+     "direction_deg": 58.43997570202072
+    }
+   }
+  },
+  {
+   "id": "fdest_j120_c40_r135_a189",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 0,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.13351875104540917,
+      -0.0218176963423976
+     ],
+     "r_m": 0.13528957370919245,
+     "direction_deg": 189.2804247607281
+    }
+   }
+  },
+  {
+   "id": "fdest_j121_c40_r126_a182",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 1,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.12573772510095896,
+      -0.004935170440860219
+     ],
+     "r_m": 0.1258345398562917,
+     "direction_deg": 182.24768952933908
+    }
+   }
+  },
+  {
+   "id": "fdest_j122_c40_r139_a184",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 2,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.13915407786256606,
+      -0.00923978286047058
+     ],
+     "r_m": 0.13946049968750915,
+     "direction_deg": 183.79884365664532
+    }
+   }
+  },
+  {
+   "id": "fdest_j123_c41_r132_a195",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 3,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.12765934230325848,
+      -0.03387177931781795
+     ],
+     "r_m": 0.1320765123383241,
+     "direction_deg": 194.85986154196377
+    }
+   }
+  },
+  {
+   "id": "fdest_j124_c41_r134_a198",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 4,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.12736532053614658,
+      -0.04126054293310262
+     ],
+     "r_m": 0.1338818780806789,
+     "direction_deg": 197.9499544853792
+    }
+   }
+  },
+  {
+   "id": "fdest_j125_c41_r140_a198",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 5,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.1332497314350387,
+      -0.04295402820661985
+     ],
+     "r_m": 0.14000192665347516,
+     "direction_deg": 197.8671069802221
+    }
+   }
+  },
+  {
+   "id": "fdest_j127_c42_r122_a214",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 7,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.10122328579558723,
+      -0.0687534666405174
+     ],
+     "r_m": 0.12236499810952424,
+     "direction_deg": 214.18535836792614
+    }
+   }
+  },
+  {
+   "id": "fdest_j141_c47_r132_a344",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 21,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.12676656049774884,
+      -0.036423041700868554
+     ],
+     "r_m": 0.1318954086660056,
+     "direction_deg": 343.96938530919255
+    }
+   }
+  },
+  {
+   "id": "fdest_j142_c47_r124_a340",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 22,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.1167886924406861,
+      -0.04273916068743454
+     ],
+     "r_m": 0.12436331669053989,
+     "direction_deg": 339.8997540872759
+    }
+   }
+  },
+  {
+   "id": "fdest_j143_c47_r149_a338",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 23,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.13871254762426463,
+      -0.055686920245935065
+     ],
+     "r_m": 0.14947308772782816,
+     "direction_deg": 338.12673342164317
+    }
+   }
+  },
+  {
+   "id": "fdest_j155_c51_r163_a070",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 5,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.05591946986492177,
+      0.15320586877785625
+     ],
+     "r_m": 0.1630920762574062,
+     "direction_deg": 69.94813970184083
+    }
+   }
+  },
+  {
+   "id": "fdest_j165_c55_r158_a161",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 15,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.14876640822381054,
+      0.05200121018716458
+     ],
+     "r_m": 0.15759305212078073,
+     "direction_deg": 160.7329564936608
+    }
+   }
+  },
+  {
+   "id": "fdest_j169_c56_r154_a188",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 19,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.1524833029831139,
+      -0.02161293794802708
+     ],
+     "r_m": 0.154007391950469,
+     "direction_deg": 188.06734841839483
+    }
+   }
+  },
+  {
+   "id": "fdest_j172_c57_r152_a195",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 22,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.14744344685230432,
+      -0.03838776138649553
+     ],
+     "r_m": 0.15235875506171218,
+     "direction_deg": 194.5933113146914
+    }
+   }
+  },
+  {
+   "id": "fdest_j173_c57_r177_a205",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 23,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.16094579616552906,
+      -0.07346172486195425
+     ],
+     "r_m": 0.17691855279492172,
+     "direction_deg": 204.5337424828919
+    }
+   }
+  },
+  {
+   "id": "fdest_j188_c62_r174_a319",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 8,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.13176136848574055,
+      -0.11323684535854801
+     ],
+     "r_m": 0.17373439893121576,
+     "direction_deg": 319.3239550807941
+    }
+   }
+  },
+  {
+   "id": "fdest_j191_c63_r163_a331",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 11,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.14196504819300884,
+      -0.07946300037270063
+     ],
+     "r_m": 0.16269125156773226,
+     "direction_deg": 330.7626739171078
+    }
+   }
+  },
+  {
+   "id": "fobj_j004_c02_r061_a049",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 4,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.04024167198004527,
+      0.045939861727078084
+     ],
+     "r_m": 0.061072604817975586,
+     "direction_deg": 48.78280239438387
+    }
+   }
+  },
+  {
+   "id": "fobj_j006_c03_r084_a068",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 6,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.03102835130665161,
+      0.07814967085044766
+     ],
+     "r_m": 0.08408406293015519,
+     "direction_deg": 68.34506546801879
+    }
+   }
+  },
+  {
+   "id": "fobj_j007_c03_r077_a062",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 7,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.03602558826215147,
+      0.06796020369242274
+     ],
+     "r_m": 0.07691834823726817,
+     "direction_deg": 62.072013538906646
+    }
+   }
+  },
+  {
+   "id": "fobj_j008_c04_r081_a098",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 8,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.011150265563758227,
+      0.07974285413171354
+     ],
+     "r_m": 0.08051863888078385,
+     "direction_deg": 97.9599318776248
+    }
+   }
+  },
+  {
+   "id": "fobj_j009_c04_r072_a084",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 9,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.007749130083640488,
+      0.07189859388750773
+     ],
+     "r_m": 0.07231498337173249,
+     "direction_deg": 83.84848665328161
+    }
+   }
+  },
+  {
+   "id": "fobj_j010_c05_r084_a106",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 10,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.02328207709391406,
+      0.08051318821100321
+     ],
+     "r_m": 0.08381186425385957,
+     "direction_deg": 106.12833447007002
+    }
+   }
+  },
+  {
+   "id": "fobj_j011_c05_r083_a122",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 11,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.04461684772700771,
+      0.07014454752657925
+     ],
+     "r_m": 0.0831319472212911,
+     "direction_deg": 122.45921900996801
+    }
+   }
+  },
+  {
+   "id": "fobj_j012_c06_r066_a130",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 12,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.04198501258765237,
+      0.05051797425483557
+     ],
+     "r_m": 0.0656871905686151,
+     "direction_deg": 129.72965119732612
+    }
+   }
+  },
+  {
+   "id": "fobj_j013_c06_r082_a144",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 13,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.06637316276809115,
+      0.04768207894373011
+     ],
+     "r_m": 0.08172501078761404,
+     "direction_deg": 144.3067618931838
+    }
+   }
+  },
+  {
+   "id": "fobj_j014_c07_r064_a154",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 14,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.057716855779984366,
+      0.02814058834875635
+     ],
+     "r_m": 0.0642115889364348,
+     "direction_deg": 154.0078620161374
+    }
+   }
+  },
+  {
+   "id": "fobj_j015_c07_r081_a160",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 15,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.07601633301116155,
+      0.02730024683704998
+     ],
+     "r_m": 0.08076995952597517,
+     "direction_deg": 160.24492958851835
+    }
+   }
+  },
+  {
+   "id": "fobj_j020_c10_r071_a231",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 20,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.044194592919240376,
+      -0.05503156235062089
+     ],
+     "r_m": 0.07058069777246218,
+     "direction_deg": 231.23284661164917
+    }
+   }
+  },
+  {
+   "id": "fobj_j021_c10_r071_a232",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 21,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.04373042297731842,
+      -0.05583976647279115
+     ],
+     "r_m": 0.07092552018498723,
+     "direction_deg": 231.9340401965877
+    }
+   }
+  },
+  {
+   "id": "fobj_j022_c11_r065_a239",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 22,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.03344531846551895,
+      -0.05589135756688974
+     ],
+     "r_m": 0.06513396332121903,
+     "direction_deg": 239.1037506159305
+    }
+   }
+  },
+  {
+   "id": "fobj_j023_c11_r085_a241",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 23,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.0411969500803534,
+      -0.07441429587077464
+     ],
+     "r_m": 0.08505689934312394,
+     "direction_deg": 241.03038155116232
+    }
+   }
+  },
+  {
+   "id": "fobj_j024_c12_r060_a281",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 24,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.011637323698910218,
+      -0.05926457547214672
+     ],
+     "r_m": 0.06039633439843011,
+     "direction_deg": 281.10938015310086
+    }
+   }
+  },
+  {
+   "id": "fobj_j025_c12_r085_a260",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 25,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.01423528766405201,
+      -0.08334025890224082
+     ],
+     "r_m": 0.08454727771354227,
+     "direction_deg": 260.3068961003495
+    }
+   }
+  },
+  {
+   "id": "fobj_j026_c13_r087_a302",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 26,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.04638934210396579,
+      -0.07392297375962852
+     ],
+     "r_m": 0.08727300333038561,
+     "direction_deg": 302.10975929159514
+    }
+   }
+  },
+  {
+   "id": "fobj_j027_c13_r079_a293",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 27,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.030253890398966095,
+      -0.07276591329982793
+     ],
+     "r_m": 0.07880467005597275,
+     "direction_deg": 292.57608013342946
+    }
+   }
+  },
+  {
+   "id": "fobj_j028_c14_r082_a324",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 28,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.06572668168247547,
+      -0.04842134646343895
+     ],
+     "r_m": 0.08163714521173465,
+     "direction_deg": 323.6206429488153
+    }
+   }
+  },
+  {
+   "id": "fobj_j029_c14_r088_a322",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 29,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.06949611425923119,
+      -0.05343332775757596
+     ],
+     "r_m": 0.08766316451269972,
+     "direction_deg": 322.4444740895452
+    }
+   }
+  },
+  {
+   "id": "fobj_j030_c15_r067_a328",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 0,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.05715451703426778,
+      -0.03554319913451939
+     ],
+     "r_m": 0.06730496134859974,
+     "direction_deg": 328.12338317080844
+    }
+   }
+  },
+  {
+   "id": "fobj_j031_c15_r062_a334",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 1,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.055290127515092116,
+      -0.027504695185515213
+     ],
+     "r_m": 0.06175359469604381,
+     "direction_deg": 333.55143531417434
+    }
+   }
+  },
+  {
+   "id": "fobj_j038_c19_r111_a077",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 8,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.024626266492686816,
+      0.1081365057597421
+     ],
+     "r_m": 0.11090517066077471,
+     "direction_deg": 77.17065214367166
+    }
+   }
+  },
+  {
+   "id": "fobj_j039_c19_r105_a077",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 9,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.022776461682794798,
+      0.10206003431167535
+     ],
+     "r_m": 0.10457063550771875,
+     "direction_deg": 77.41960217606483
+    }
+   }
+  },
+  {
+   "id": "fobj_j040_c20_r117_a100",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 10,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.020209961496991294,
+      0.11532578846673765
+     ],
+     "r_m": 0.11708321839266543,
+     "direction_deg": 99.93971764053818
+    }
+   }
+  },
+  {
+   "id": "fobj_j041_c20_r099_a084",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 11,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.00995304491306793,
+      0.09898768265109624
+     ],
+     "r_m": 0.09948680525414255,
+     "direction_deg": 84.25830334541685
+    }
+   }
+  },
+  {
+   "id": "fobj_j042_c21_r118_a111",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 12,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.041965422071016514,
+      0.11038373068956325
+     ],
+     "r_m": 0.11809176368631552,
+     "direction_deg": 110.81568236575531
+    }
+   }
+  },
+  {
+   "id": "fobj_j043_c21_r119_a116",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 13,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.05253752340829222,
+      0.10729262672384869
+     ],
+     "r_m": 0.11946505394959642,
+     "direction_deg": 116.08940828302087
+    }
+   }
+  },
+  {
+   "id": "fobj_j044_c22_r111_a141",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 14,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.08649126603817689,
+      0.06998418464080203
+     ],
+     "r_m": 0.11125882077716158,
+     "direction_deg": 141.02203635058686
+    }
+   }
+  },
+  {
+   "id": "fobj_j045_c22_r102_a134",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 15,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.07073832069508382,
+      0.07345360376302118
+     ],
+     "r_m": 0.1019771637207833,
+     "direction_deg": 133.92118871991144
+    }
+   }
+  },
+  {
+   "id": "fobj_j046_c23_r099_a158",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 16,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.09188158733441473,
+      0.036677361932580935
+     ],
+     "r_m": 0.0989315671028475,
+     "direction_deg": 158.2390665537425
+    }
+   }
+  },
+  {
+   "id": "fobj_j047_c23_r120_a147",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 17,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.10032933213260826,
+      0.06559887841250037
+     ],
+     "r_m": 0.11987154681221573,
+     "direction_deg": 146.8219162041376
+    }
+   }
+  },
+  {
+   "id": "fobj_j049_c24_r093_a179",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 19,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.0925394651490777,
+      0.0019836524105437212
+     ],
+     "r_m": 0.09256072324135774,
+     "direction_deg": 178.7720103206778
+    }
+   }
+  },
+  {
+   "id": "fobj_j054_c27_r102_a252",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 24,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.031367761726710235,
+      -0.09737758286006966
+     ],
+     "r_m": 0.10230508354629012,
+     "direction_deg": 252.14494835209544
+    }
+   }
+  },
+  {
+   "id": "fobj_j056_c28_r105_a263",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 26,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.01236499476101384,
+      -0.10391341505124115
+     ],
+     "r_m": 0.10464650459070006,
+     "direction_deg": 263.214097147224
+    }
+   }
+  },
+  {
+   "id": "fobj_j057_c28_r099_a268",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 27,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.004229708946014523,
+      -0.0988149338932949
+     ],
+     "r_m": 0.09890541743556941,
+     "direction_deg": 267.548987634879
+    }
+   }
+  },
+  {
+   "id": "fobj_j058_c29_r096_a301",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 28,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.048717714951039354,
+      -0.08237863116054392
+     ],
+     "r_m": 0.09570608456067807,
+     "direction_deg": 300.5995508131337
+    }
+   }
+  },
+  {
+   "id": "fobj_j060_c30_r119_a324",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 0,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.09564762627249952,
+      -0.0702136894507033
+     ],
+     "r_m": 0.11865256254225419,
+     "direction_deg": 323.71808756846
+    }
+   }
+  },
+  {
+   "id": "fobj_j061_c30_r110_a320",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 1,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.08499546033754557,
+      -0.07028807605723314
+     ],
+     "r_m": 0.1102934354973979,
+     "direction_deg": 320.4105206235236
+    }
+   }
+  },
+  {
+   "id": "fobj_j072_c36_r129_a091",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 12,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.0027522025309938535,
+      0.1289776234433936
+     ],
+     "r_m": 0.12900698418255288,
+     "direction_deg": 91.22242647833085
+    }
+   }
+  },
+  {
+   "id": "fobj_j073_c36_r123_a090",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 13,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.0009094997666060333,
+      0.1233474337323957
+     ],
+     "r_m": 0.12335078677573648,
+     "direction_deg": 89.57753840380764
+    }
+   }
+  },
+  {
+   "id": "fobj_j075_c37_r145_a103",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 15,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.03233989640586079,
+      0.14137184859122587
+     ],
+     "r_m": 0.1450236824578741,
+     "direction_deg": 102.88514284183348
+    }
+   }
+  },
+  {
+   "id": "fobj_j076_c38_r131_a144",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 16,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.10575808297388571,
+      0.07778832784466165
+     ],
+     "r_m": 0.13128517076646493,
+     "direction_deg": 143.66437285592528
+    }
+   }
+  },
+  {
+   "id": "fobj_j077_c38_r141_a136",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 17,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.10145322431328063,
+      0.09753328525817367
+     ],
+     "r_m": 0.14073200935399563,
+     "direction_deg": 136.12855347822875
+    }
+   }
+  },
+  {
+   "id": "fobj_j078_c39_r148_a150",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 18,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.12769078008138246,
+      0.07516894029898954
+     ],
+     "r_m": 0.1481732260007355,
+     "direction_deg": 149.51555175799123
+    }
+   }
+  },
+  {
+   "id": "fobj_j079_c39_r144_a155",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 19,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.1306699689956937,
+      0.06167302395752811
+     ],
+     "r_m": 0.14449291567894043,
+     "direction_deg": 154.73383750072227
+    }
+   }
+  },
+  {
+   "id": "fobj_j080_c40_r146_a169",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 20,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.14389766862644068,
+      0.027406691361262087
+     ],
+     "r_m": 0.14648435331971946,
+     "direction_deg": 169.21661982135885
+    }
+   }
+  },
+  {
+   "id": "fobj_j086_c43_r123_a247",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 26,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.04775806646590175,
+      -0.11321536722500229
+     ],
+     "r_m": 0.12287616647850637,
+     "direction_deg": 247.12833967471914
+    }
+   }
+  },
+  {
+   "id": "fobj_j090_c45_r130_a302",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 0,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.06940283243924013,
+      -0.1104428418227275
+     ],
+     "r_m": 0.13043915999602745,
+     "direction_deg": 302.145458947647
+    }
+   }
+  },
+  {
+   "id": "fobj_j092_c46_r148_a321",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 2,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.11516360908094926,
+      -0.09329228924705234
+     ],
+     "r_m": 0.14820967609945504,
+     "direction_deg": 320.9895937547071
+    }
+   }
+  },
+  {
+   "id": "fobj_j093_c46_r131_a309",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 3,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.08277048396541123,
+      -0.10205353526655121
+     ],
+     "r_m": 0.1313996844603122,
+     "direction_deg": 309.0437684249204
+    }
+   }
+  },
+  {
+   "id": "fobj_j095_c47_r138_a341",
+   "family": "F-obj",
+   "scene": "standard",
+   "init_index": 5,
+   "moved": {
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.13064089450335348,
+      -0.04519170197605424
+     ],
+     "r_m": 0.1382365119790312,
+     "direction_deg": 340.9183154659144
+    }
+   }
+  },
+  {
+   "id": "fboth_j000_p57_b27",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 0,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.15880834844529748,
+      -0.05785283832993415
+     ],
+     "r_m": 0.16901787609230132,
+     "direction_deg": 200.01635000266737
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.03019316125793328,
+      -0.08490342350147032
+     ],
+     "r_m": 0.09011225393373304,
+     "direction_deg": 250.42371258908702
+    }
+   }
+  },
+  {
+   "id": "fboth_j002_p11_b08",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 2,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.02825138976243083,
+      -0.06511504112086539
+     ],
+     "r_m": 0.07097964217774538,
+     "direction_deg": 246.54547879774123
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.062355332218397036,
+      -0.007060241867267511
+     ],
+     "r_m": 0.06275376061473113,
+     "direction_deg": 186.4598575652302
+    }
+   }
+  },
+  {
+   "id": "fboth_j003_p25_b15",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 3,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.09855493328864598,
+      -0.0554667115748662
+     ],
+     "r_m": 0.11309125062735338,
+     "direction_deg": 209.3708070315014
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.05446744492730305,
+      -0.029881434637442257
+     ],
+     "r_m": 0.06212570074373829,
+     "direction_deg": 331.2503468015136
+    }
+   }
+  },
+  {
+   "id": "fboth_j006_p01_b36",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 6,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.07271853871762415,
+      0.03564572825544238
+     ],
+     "r_m": 0.0809852073905318,
+     "direction_deg": 26.11352241673374
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.010577660164945858,
+      0.12951062289728835
+     ],
+     "r_m": 0.12994186522367882,
+     "direction_deg": 94.6692158834849
+    }
+   }
+  },
+  {
+   "id": "fboth_j008_p12_b06",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 8,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.006077973178946821,
+      -0.07416460034104475
+     ],
+     "r_m": 0.07441323606530556,
+     "direction_deg": 265.3149384791638
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.0550506138662437,
+      0.05105211399082968
+     ],
+     "r_m": 0.07507921436711315,
+     "direction_deg": 137.158180206069
+    }
+   }
+  },
+  {
+   "id": "fboth_j051_p57_b31",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 21,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.15370462694858056,
+      -0.07390431067643956
+     ],
+     "r_m": 0.17054899437393942,
+     "direction_deg": 205.6791941038859
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.09991743241725315,
+      -0.052000652283899516
+     ],
+     "r_m": 0.11263907465354718,
+     "direction_deg": 332.50589745895246
+    }
+   }
+  },
+  {
+   "id": "fboth_j068_p02_b05",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 8,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.06924627599403443,
+      0.055671492257428075
+     ],
+     "r_m": 0.08885022109826662,
+     "direction_deg": 38.79801836410154
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.0365663449576058,
+      0.06052322015644966
+     ],
+     "r_m": 0.07071179365328459,
+     "direction_deg": 121.13913387539579
+    }
+   }
+  },
+  {
+   "id": "fboth_j069_p00_b11",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 9,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.07012950112161416,
+      0.010098519206101997
+     ],
+     "r_m": 0.07085285469000167,
+     "direction_deg": 8.194160118367098
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.01769020892201591,
+      -0.073347976333455
+     ],
+     "r_m": 0.07545110419283237,
+     "direction_deg": 256.44025073027376
+    }
+   }
+  },
+  {
+   "id": "fboth_j071_p17_b37",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 11,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.10821103472346102,
+      0.04892911904249984
+     ],
+     "r_m": 0.11875894377349946,
+     "direction_deg": 24.33076364601815
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.05295768632831159,
+      0.11962812878108038
+     ],
+     "r_m": 0.13082586035226595,
+     "direction_deg": 113.87829684159077
+    }
+   }
+  },
+  {
+   "id": "fboth_j072_p47_b28",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 12,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.11865034785033828,
+      -0.03920533215182914
+     ],
+     "r_m": 0.12495984600719352,
+     "direction_deg": 341.71502682659303
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.0006855646506745592,
+      -0.10518866334718771
+     ],
+     "r_m": 0.10519089739924384,
+     "direction_deg": 269.6265813856764
+    }
+   }
+  },
+  {
+   "id": "fboth_j084_p19_b56",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 24,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.06175660201578212,
+      0.09720954845787298
+     ],
+     "r_m": 0.11516759181262436,
+     "direction_deg": 57.57246696568732
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.16458568970400556,
+      0.02495841999251029
+     ],
+     "r_m": 0.16646733007970585,
+     "direction_deg": 171.37713935235763
+    }
+   }
+  },
+  {
+   "id": "fboth_j086_p30_b37",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 26,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.08845912309105332,
+      -0.08050906061000578
+     ],
+     "r_m": 0.11961072401061582,
+     "direction_deg": 317.6938168833015
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.06639309177724849,
+      0.10290064764923175
+     ],
+     "r_m": 0.12246054843243796,
+     "direction_deg": 122.83073445772636
+    }
+   }
+  },
+  {
+   "id": "fboth_j088_p18_b34",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 28,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.08061351464746447,
+      0.07698609025366593
+     ],
+     "r_m": 0.11146926408818963,
+     "direction_deg": 43.68147246717554
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.08666373767737537,
+      0.11787036868851454
+     ],
+     "r_m": 0.1463011525688683,
+     "direction_deg": 53.67495705091255
+    }
+   }
+  },
+  {
+   "id": "fboth_j104_p31_b46",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 14,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.09844634299013157,
+      -0.027219708614645267
+     ],
+     "r_m": 0.1021400753142312,
+     "direction_deg": 344.54425957756183
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.11359058477489384,
+      -0.08368229781986601
+     ],
+     "r_m": 0.14108702249999855,
+     "direction_deg": 323.62088823601067
+    }
+   }
+  },
+  {
+   "id": "fboth_j108_p34_b15",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 18,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.07880327743978476,
+      0.10272084223495115
+     ],
+     "r_m": 0.129466319808317,
+     "direction_deg": 52.506037902010576
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.07349449363417958,
+      -0.023642245058924774
+     ],
+     "r_m": 0.07720360319292563,
+     "direction_deg": 342.16767630696256
+    }
+   }
+  },
+  {
+   "id": "fboth_j113_p39_b38",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 23,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.130836597350174,
+      0.032802378081901847
+     ],
+     "r_m": 0.1348859192577179,
+     "direction_deg": 165.9253379427118
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.1053586252833865,
+      0.07736312436612493
+     ],
+     "r_m": 0.1307114873807714,
+     "direction_deg": 143.71076765216384
+    }
+   }
+  },
+  {
+   "id": "fboth_j117_p63_b56",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 27,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.13857959393100205,
+      -0.07040541861890394
+     ],
+     "r_m": 0.15543882019941005,
+     "direction_deg": 333.06713499487927
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.1743617241578401,
+      0.019576591937608415
+     ],
+     "r_m": 0.17545727059083746,
+     "direction_deg": 173.5939020404606
+    }
+   }
+  },
+  {
+   "id": "fboth_j119_p13_b04",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 29,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.03243606139625648,
+      -0.06134409509255313
+     ],
+     "r_m": 0.06939161391426144,
+     "direction_deg": 297.8679180927545
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.011704124236280915,
+      0.0672658811684802
+     ],
+     "r_m": 0.06827653545333418,
+     "direction_deg": 99.87052785588912
+    }
+   }
+  },
+  {
+   "id": "fboth_j127_p24_b10",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 7,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.11840590755944447,
+      -0.0019387397895731884
+     ],
+     "r_m": 0.11842177864289737,
+     "direction_deg": 180.93805861981545
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.04628044755650398,
+      -0.04285744142941478
+     ],
+     "r_m": 0.06307646242383948,
+     "direction_deg": 222.8008511674074
+    }
+   }
+  },
+  {
+   "id": "p2_i00",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 0,
+   "moved": {}
+  },
+  {
+   "id": "p2_i01",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 1,
+   "moved": {}
+  },
+  {
+   "id": "p2_i02",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 2,
+   "moved": {}
+  },
+  {
+   "id": "p2_i03",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 3,
+   "moved": {}
+  },
+  {
+   "id": "p2_i04",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 4,
+   "moved": {}
+  },
+  {
+   "id": "p2_i05",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 5,
+   "moved": {}
+  },
+  {
+   "id": "p2_i06",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 6,
+   "moved": {}
+  },
+  {
+   "id": "p2_i07",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 7,
+   "moved": {}
+  },
+  {
+   "id": "p2_i08",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 8,
+   "moved": {}
+  },
+  {
+   "id": "p2_i09",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 9,
+   "moved": {}
+  },
+  {
+   "id": "p2_i10",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 10,
+   "moved": {}
+  },
+  {
+   "id": "p2_i11",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 11,
+   "moved": {}
+  },
+  {
+   "id": "p2_i12",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 12,
+   "moved": {}
+  },
+  {
+   "id": "p2_i13",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 13,
+   "moved": {}
+  },
+  {
+   "id": "p2_i14",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 14,
+   "moved": {}
+  },
+  {
+   "id": "p2_i15",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 15,
+   "moved": {}
+  },
+  {
+   "id": "p2_i16",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 16,
+   "moved": {}
+  },
+  {
+   "id": "p2_i17",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 17,
+   "moved": {}
+  },
+  {
+   "id": "p2_i18",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 18,
+   "moved": {}
+  },
+  {
+   "id": "p2_i19",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 19,
+   "moved": {}
+  },
+  {
+   "id": "p2_i20",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 20,
+   "moved": {}
+  },
+  {
+   "id": "p2_i21",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 21,
+   "moved": {}
+  },
+  {
+   "id": "p2_i22",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 22,
+   "moved": {}
+  },
+  {
+   "id": "p2_i23",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 23,
+   "moved": {}
+  },
+  {
+   "id": "p2_i24",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 24,
+   "moved": {}
+  },
+  {
+   "id": "p2_i25",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 25,
+   "moved": {}
+  },
+  {
+   "id": "p2_i26",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 26,
+   "moved": {}
+  },
+  {
+   "id": "p2_i27",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 27,
+   "moved": {}
+  },
+  {
+   "id": "p2_i28",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 28,
+   "moved": {}
+  },
+  {
+   "id": "p2_i29",
+   "family": "P2",
+   "scene": "p2",
+   "init_index": 29,
+   "moved": {}
+  },
+  {
+   "id": "fdest_j185_c61_r166_a303_swap",
+   "family": "F-dest",
+   "scene": "standard",
+   "init_index": 5,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.09070065253247438,
+      -0.13936912745749067
+     ],
+     "r_m": 0.16628398016068455,
+     "direction_deg": 303.0558543670876
+    },
+    "cookies_1": {
+     "dxy": [
+      0.007609866219613272,
+      0.15872576394667803
+     ],
+     "r_m": 0.15890808099129813,
+     "direction_deg": 87.25514247908889
+    }
+   }
+  },
+  {
+   "id": "fboth_j129_p41_b30",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 9,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.1291765802562783,
+      -0.06118969116717216
+     ],
+     "r_m": 0.1429362347056918,
+     "direction_deg": 205.34646021978887
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.05680162212028805,
+      -0.07046305208706975
+     ],
+     "r_m": 0.0905067178993974,
+     "direction_deg": 308.8729556131833
+    }
+   }
+  },
+  {
+   "id": "fboth_j134_p24_b56",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 14,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.10087976963262703,
+      0.002089150191405003
+     ],
+     "r_m": 0.1009013997408071,
+     "direction_deg": 178.81361365595987
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.16813831147520744,
+      0.028709778468979257
+     ],
+     "r_m": 0.17057181234152302,
+     "direction_deg": 170.31014146627186
+    }
+   }
+  },
+  {
+   "id": "fboth_j138_p26_b38",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 18,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.0746621519222425,
+      -0.07706461658726632
+     ],
+     "r_m": 0.10730047557864031,
+     "direction_deg": 225.90715425393284
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.08737294328164617,
+      0.08915287589986837
+     ],
+     "r_m": 0.12482894896182972,
+     "direction_deg": 134.4222988379178
+    }
+   }
+  },
+  {
+   "id": "fboth_j145_p42_b55",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 25,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.09609761692873715,
+      -0.09460983638957578
+     ],
+     "r_m": 0.13485463700238345,
+     "direction_deg": 224.55302315160466
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.1703549020070882,
+      0.038419915590760884
+     ],
+     "r_m": 0.1746335665095511,
+     "direction_deg": 167.29078842735854
+    }
+   }
+  },
+  {
+   "id": "fboth_j148_p15_b47",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 28,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.06821701940956265,
+      -0.04231355232380149
+     ],
+     "r_m": 0.08027451929089165,
+     "direction_deg": 328.1895612888188
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.10639374083301242,
+      -0.056014474511037665
+     ],
+     "r_m": 0.12023830272916324,
+     "direction_deg": 332.2339666485515
+    }
+   }
+  },
+  {
+   "id": "fboth_j149_p10_b39",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 29,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.05257832357174136,
+      -0.056095411469054314
+     ],
+     "r_m": 0.0768841680549204,
+     "direction_deg": 226.85365839025334
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.12026117595835215,
+      0.07803024314972273
+     ],
+     "r_m": 0.1433578365102187,
+     "direction_deg": 147.0228860789859
+    }
+   }
+  },
+  {
+   "id": "fboth_j152_p00_b50",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 2,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.08705675465952721,
+      -0.0030195442294105165
+     ],
+     "r_m": 0.08710910503042996,
+     "direction_deg": -1.9864950548073708
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.08657881608409389,
+      0.12426332284987894
+     ],
+     "r_m": 0.15145053582017,
+     "direction_deg": 55.133658161562806
+    }
+   }
+  },
+  {
+   "id": "fboth_j153_p15_b21",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 3,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.07622253558188145,
+      -0.026091714057048895
+     ],
+     "r_m": 0.08056458572453525,
+     "direction_deg": 341.10342665450275
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.051756260447813215,
+      0.08413734929063077
+     ],
+     "r_m": 0.09878159768497106,
+     "direction_deg": 121.59734107334197
+    }
+   }
+  },
+  {
+   "id": "fboth_j156_p14_b63",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 6,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.0434813344407553,
+      -0.04676993562203514
+     ],
+     "r_m": 0.06385963766604164,
+     "direction_deg": 312.9131635303552
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.1649454064852981,
+      -0.04671613477898074
+     ],
+     "r_m": 0.171433323392181,
+     "direction_deg": 344.18672177859423
+    }
+   }
+  },
+  {
+   "id": "fboth_j175_p41_b54",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 25,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.14208098665095575,
+      -0.029753296175784264
+     ],
+     "r_m": 0.14516289264489396,
+     "direction_deg": 191.82744369156524
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.12559844631927453,
+      0.09345828997133783
+     ],
+     "r_m": 0.1565548519918254,
+     "direction_deg": 143.34692190580824
+    }
+   }
+  },
+  {
+   "id": "fboth_j178_p46_b63",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 28,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.0937774976368009,
+      -0.08764360719070614
+     ],
+     "r_m": 0.12835739536317725,
+     "direction_deg": 316.9364462048308
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.13736888292642496,
+      -0.07057232374575965
+     ],
+     "r_m": 0.15443659823801534,
+     "direction_deg": 332.80847783537433
+    }
+   }
+  },
+  {
+   "id": "fboth_j180_p30_b04",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 0,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      0.07277233144011938,
+      -0.06257183348099397
+     ],
+     "r_m": 0.09597419740953204,
+     "direction_deg": 319.31006869999254
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      0.00437569233480809,
+      0.0778954208414431
+     ],
+     "r_m": 0.07801822397026496,
+     "direction_deg": 86.78484955871926
+    }
+   }
+  },
+  {
+   "id": "fboth_j183_p12_b20",
+   "family": "F-both",
+   "scene": "standard",
+   "init_index": 3,
+   "moved": {
+    "plate_1": {
+     "dxy": [
+      -0.007092127120399002,
+      -0.06472045748011877
+     ],
+     "r_m": 0.0651078788129959,
+     "direction_deg": 263.7464271730516
+    },
+    "akita_black_bowl_1": {
+     "dxy": [
+      -0.005140588630346208,
+      0.10039466449606527
+     ],
+     "r_m": 0.10052618718893079,
+     "direction_deg": 92.93120189580452
+    }
+   }
+  }
+ ]
+}

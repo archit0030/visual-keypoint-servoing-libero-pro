@@ -1,0 +1,17 @@
+numpy==1.26.4
+mujoco==2.3.7
+robosuite==1.4.0
+bddl==1.0.1
+gym==0.25.2
+h5py==3.11.0
+easydict==1.13
+einops==0.8.0
+PyYAML==6.0.2
+cloudpickle==3.0.0
+future==1.0.0
+termcolor==2.5.0
+opencv-python==4.10.0.84
+imageio==2.36.1
+imageio-ffmpeg==0.5.1
+Pillow==10.4.0
+pytest==8.3.4

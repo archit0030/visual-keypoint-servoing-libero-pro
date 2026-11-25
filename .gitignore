@@ -1,0 +1,7 @@
+.venv/
+third_party/
+runs/
+__pycache__/
+*.pyc
+.pytest_cache/
+.libero/
