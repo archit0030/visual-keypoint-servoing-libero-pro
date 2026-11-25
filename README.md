@@ -158,3 +158,15 @@ python train_detector.py --camera agentview --train renders/train/*.h5 --dev ren
   10 steps with the gripper open before the policy starts.
 - The method is specific to this one task: object classes, plane heights and
   grasp offsets are fixed for the bowl and plate.
+
+## Credits
+
+- LIBERO: Liu et al., 2023, https://github.com/Lifelong-Robot-Learning/LIBERO.
+- LIBERO-PRO: https://github.com/Zxy-MLlab/LIBERO-PRO. The task files in `assets/`
+  and the initial states the test layouts are built from come from it.
+- The K-Net heatmap design follows CenterNet (Zhou et al., *Objects as Points*, 2019).
+
+## License
+
+Released under the [MIT License](LICENSE). The LIBERO-PRO task files and the
+initial states derived from them are under CC BY 4.0.
